@@ -1,0 +1,64 @@
+{
+  "lyceum": 1,
+  "_note": "Generated for the Lyceum hub's unified search. Section titles are the guide's own headings. 'keywords' is optional and never displayed: it lets an evocative title stay evocative while remaining findable. Leave arrays empty until you have something to add.",
+  "title": "Colony Research Project",
+  "description": "A research guide for the APUSH I Colony Research Project featuring regional search strategies, library databases, ebooks, open web archives, and presentation tips for the British colonies, 1600 to 1750.",
+  "url": "https://mistertlibrary.github.io/colonyresearchproject/",
+  "series": "",
+  "course": "",
+  "subjects": [
+    "Social Studies"
+  ],
+  "sections": [
+    {
+      "title": "Before you begin",
+      "anchor": "#begin",
+      "keywords": []
+    },
+    {
+      "title": "Your research requirements",
+      "anchor": "#requirements",
+      "keywords": []
+    },
+    {
+      "title": "Research Overview: a multiregional exploration",
+      "anchor": "#aspects",
+      "keywords": []
+    },
+    {
+      "title": "Regions",
+      "anchor": "#regions",
+      "keywords": []
+    },
+    {
+      "title": "Analyzing primary sources",
+      "anchor": "#sources",
+      "keywords": []
+    },
+    {
+      "title": "Databases",
+      "anchor": "#databases",
+      "keywords": []
+    },
+    {
+      "title": "Ebooks",
+      "anchor": "#ebooks",
+      "keywords": []
+    },
+    {
+      "title": "Open web resources",
+      "anchor": "#openweb",
+      "keywords": []
+    },
+    {
+      "title": "Citing your sources",
+      "anchor": "#citing",
+      "keywords": []
+    },
+    {
+      "title": "Presenting your research",
+      "anchor": "#presenting",
+      "keywords": []
+    }
+  ]
+}
